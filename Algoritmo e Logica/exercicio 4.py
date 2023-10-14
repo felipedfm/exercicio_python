@@ -1,0 +1,5 @@
+n1 = float(input("digite a primeira a nota"))
+n2 = float(input("digite a segunda a nota"))
+n3 = float(input("digite a terceira a nota"))
+n4 = float(input("digite a quarta a nota"))
+print ("sua média é " + str((n1 + n2 + n3 + n4)/4))

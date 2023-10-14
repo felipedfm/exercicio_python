@@ -1,0 +1,5 @@
+r1 = float(input("digite a resistencia 1 "))
+r2 = float(input("digite a resistencia 2 "))
+r3 = float(input("digite a resistencia 3 "))
+res = ((r1*r2)/(r1+r2)+ r3)
+print (f"a resistencia é {res:.2f}")
